@@ -1,7 +1,7 @@
 # React-Portfolio-Tutorial
-This repo is for a tutorial I made to learn react 
-Link for youtube tutorial: https://www.youtube.com/watch?v=ohnrC3gh9YI
-Demo: 
+- This repo is for a tutorial I made to learn react 
+- Link for youtube tutorial: https://www.youtube.com/watch?v=ohnrC3gh9YI
+- Demo: 
 
 # Student
 
